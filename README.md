@@ -1,6 +1,6 @@
 # 3D Solar System Simulation
 
-A real-time, GPU-accelerated 3D simulation of the solar system built entirely from scratch in Python. Every planet's motion is driven by real gravitational physics — not pre-programmed circular paths.
+A real-time, GPU-accelerated 3D simulation of the solar system built entirely from scratch in Python. 
 
 ## How It Works
 
